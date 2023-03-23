@@ -27,3 +27,4 @@ public class Quadrado {
         return Objects.hash(lado);
     }
 }
+
